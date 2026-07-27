@@ -47,15 +47,26 @@
 #     print(i)
 
 
-#work of else with break
+# #work of else with break
 
-for i in range(1,21):
-    if i == 15:
-        print("break statement is executed")
-        break    
-    print(i)
+# for i in range(1,21):
+#     if i == 15:
+#         print("break statement is executed")
+#         break    
+#     print(i)
 
-else:    
-    print("break statement is not executed") 
-# if break not running then else  run 
-# if else not running then break run 
+# else:    
+#     print("break statement is not executed") 
+# # if break not running then else  run 
+# # if else not running then break run 
+
+
+# #While Loop --------------------
+
+# a = 1
+
+# while a <=30:
+#     print(a)
+#     a = a +1
+
+
