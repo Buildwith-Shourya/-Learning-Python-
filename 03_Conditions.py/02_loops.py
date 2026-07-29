@@ -62,11 +62,13 @@
 
 
 # #While Loop --------------------
-
+ 
 # a = 1
 
-# while a <=30:
+# while a != 21:
 #     print(a)
-#     a = a +1
+#     a = a + 1 
+
+
 
 
